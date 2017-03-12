@@ -48,3 +48,36 @@ height: 70px;
   width: 60px;
   height: 52px;
 }
+
+.shopdiv{
+  position: relative;
+  left: 400px;
+  bottom: 266px;
+    color: white;
+  border-right: 1px solid #990000;
+  padding-top: 81px ;
+  width: 60px;
+  height: 52px;
+}
+
+.forumdiv{
+  position: relative;
+  left: 470px;
+  bottom: 399px;
+    color: white;
+  border-right: 1px solid #990000;
+  padding-top: 81px ;
+  width: 60px;
+  height: 52px;
+}
+
+.aboutdiv{
+  position: relative;
+  left: 550px;
+  bottom: 532px;
+    color: white;
+  border-right: 1px solid #990000;
+  padding-top: 81px ;
+  width: 60px;
+  height: 52px;
+}
