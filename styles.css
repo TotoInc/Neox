@@ -25,10 +25,10 @@ height: 85px;
 }
 
 .signindiv{
-padding-top: 20px;
+padding-top: 20px ;
 color: white;
 border-right: 1px solid #990000;
-width: 300px;
+width: 308px;
 height: 70px;
 }
 
@@ -36,4 +36,15 @@ height: 70px;
   position: relative;
   top: 5px;
 
+}
+
+.newsdiv{
+  position: relative;
+  left: 320px;
+  bottom: 134px;
+    color: white;
+  border-right: 1px solid #990000;
+  padding-top: 81px ;
+  width: 60px;
+  height: 52px;
 }
