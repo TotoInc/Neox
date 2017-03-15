@@ -104,3 +104,15 @@ a {
       color: rgb(255, 249, 245);
     text-decoration: none;
 }
+
+.footer{
+  background-color: rgb(74, 74, 74);
+  color: rgb(0, 232, 255);
+  padding: 30px 5%;
+  position: absolute;
+      left: 0;
+      bottom: 0;
+      height: 30px;
+      width: 90%;
+      overflow:hidden;
+}
