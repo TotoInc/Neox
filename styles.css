@@ -116,3 +116,15 @@ a {
       width: 90%;
       overflow:hidden;
 }
+
+.text{
+  color: rgb(255, 255, 255);
+  font-family: Times New Roman;
+  font-size: 30px;
+  position: fixed;
+      top: 40%;
+      left: 55%;
+      margin-top: -100px;
+      margin-left: -200px;
+        text-decoration: underline;
+}
