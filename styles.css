@@ -7,7 +7,7 @@
 body{
   margin: 0;
   font-family: sans-serif;
-  background-image: url(Resources/background.jpg);
+background-color: rgb(6, 6, 6);
 }
 
 .fixedwidth{
